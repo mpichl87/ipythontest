@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"Open",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"",
+				"Apply Julia Syntax to .jl Files"
+			],
+			[
+				"Op",
+				"Open IPython Notebook"
+			],
+			[
+				"Ope",
+				"Open IPython Notebook"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Contr",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+			"view.run_command(\"example\")",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kranzi/Schreibtisch/Hoult transcode/convert.sh",
+		"/home/kranzi/ipythontest/startIJulia.sh",
+		"/home/kranzi/.config/sublime-text-3/Packages/IJulia/Sublime-IJulia.sublime-settings",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/Sublime-IJulia.sublime-settings",
+		"/home/kranzi/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/kranzi/Untitled0.ipynb",
+		"/home/kranzi/keyout.sh",
+		"/home/kranzi/Schreibtisch/Hoult transcode/test.jl",
+		"/media/kranzi/My Passport/hfpr/Cable Traps/Floating Trap.ipynb",
+		"/home/kranzi/.config/sublime-text-3/Packages/IPython Notebook/README.md",
+		"/media/kranzi/key/messerli/README.md",
+		"/media/kranzi/key/kranznet/SharedKey.txt",
+		"/media/kranzi/key/kranznet/README.md",
+		"/media/kranzi/9877a387-371a-4688-869e-1911c88b27c4/Downloads/Stieg Larsson Millennium Trilogy 2009 (Full Original TV Version) [Part 6 of 6] 1080p BDRip x264 dual ac3 sub (mkv) [GREYSHADOW]/Stieg Larsson Millennium Trilogy 2009 Part 6.txt",
+		"/media/kranzi/9877a387-371a-4688-869e-1911c88b27c4/Downloads/apps/Anaconda-2.1.0-Linux-x86_64.sh",
+		"/home/kranzi/Schreibtisch/Toscanalyzer_Linux/LinuxUnixStarter.sh",
+		"/media/kranzi/My Passport/hfpr/calc/MRI.ipynb",
+		"/home/kranzi/Schreibtisch/Hoult transcode/mylist.txt",
+		"/media/kranzi/My Passport/hoult lectures/2014-09-03/RF_lab_session_1/convert.sh",
+		"/tmp/calibre_1.25.0_tmp_N425If/Oq3a6t_view_device_book.txt",
+		"/home/kranzi/Calibre-Bibliothek/Voyage/Stephen Baxter - Voyage (14)/Stephen Baxter - Voyage - Voyage.txt",
+		"/tmp/calibre_1.25.0_tmp_N425If/VRXc01_view_device_book.txt",
+		"/media/kranzi/9877a387-371a-4688-869e-1911c88b27c4/Downloads/torrent/Stieg Larsson Millennium Trilogy 2009 (Full Original TV Version) [Part 5 of 6] 1080p BDRip x264 dual ac3 sub (mkv) [GREYSHADOW]/Stieg Larsson Millennium Trilogy 2009 Part 5.txt",
+		"/media/kranzi/9877a387-371a-4688-869e-1911c88b27c4/Downloads/Mother [Madeo] [2009] 720p BRRip H264 AC3 - CODY/Info_by_Cody.txt",
+		"/etc/asound.conf",
+		"/home/kranzi/designer/components/core-elements/metadata.html",
+		"/home/kranzi/designer/components/more-elements/metadata.html",
+		"/home/kranzi/designer/index.html",
+		"/home/kranzi/designer/components/google-map/metadata.html",
+		"/home/kranzi/designer/README.md",
+		"/home/kranzi/designer/elements/design-canvas/design-canvas.html",
+		"/home/kranzi/polymertest/app/bower_components/context-free-parser/bower.json",
+		"/home/kranzi/.cache/.fr-l8RP0h/SpaceCadet.tmTheme",
+		"/home/kranzi/.cache/.fr-dIsyul/All Hallow's Eve.tmTheme",
+		"/home/kranzi/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/kranzi/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/kranzi/.cache/.fr-m0MUMz/XML.sublime-settings",
+		"/home/kranzi/.cache/.fr-N9cO1J/XML.tmLanguage",
+		"/opt/sublime_text/sublime.py",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/Sublime Settings.sublime-settings",
+		"/home/kranzi/untitled,py",
+		"/home/kranzi/.cache/.fr-T5OxmJ/lorem.sublime-snippet",
+		"/home/kranzi/.cache/.fr-qNuKkZ/Solarized (Dark).tmTheme",
+		"/home/kranzi/.cache/.fr-rky62T/Plain text.tmLanguage",
+		"/home/kranzi/.cache/.fr-Mw3IBe/RegExp.tmLanguage",
+		"/home/kranzi/.cache/.fr-S1ZNg1/lorem.sublime-snippet",
+		"/home/kranzi/.cache/.fr-JkL6J8/Dawn.tmTheme",
+		"/opt/sublime_text/Packages/YAML.sublime-package",
+		"/home/kranzi/.cache/.fr-Ii6sKw/YAML.tmLanguage",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/tmp/Zip Browser/d9d50947d996529f71f7c2c1d259eb68/_osx_support.pyo",
+		"/opt/sublime_text/Packages/ASP.sublime-package",
+		"/opt/sublime_text/plugin_host",
+		"/opt/sublime_text/Packages/ActionScript.sublime-package",
+		"/opt/sublime_text/changelog.txt",
+		"/opt/sublime_text/Packages/Batch File.sublime-package",
+		"/media/kranzi/9877a387-371a-4688-869e-1911c88b27c4/Downloads/Edge.of.Tomorrow.2014.1080p.WEBRip.HC.XviD.MP3-RARBG/RARBG.com.txt",
+		"/media/kranzi/9877a387-371a-4688-869e-1911c88b27c4/Downloads/Edge.of.Tomorrow.2014.1080p.WEBRip.HC.XviD.MP3-RARBG/Edge.of.Tomorrow.2014.1080p.WEBRip.HC.XviD.MP3-RARBG.nfo",
+		"/home/kranzi/.profile",
+		"/home/kranzi/.config/caja/desktop-metadata",
+		"/home/kranzi/.config/sublime-text-3/Local/Session.sublime_session",
+		"/home/kranzi/.config/gtk-3.0/bookmarks",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/hello_world.py",
+		"/home/kranzi/.config/sublime-text-3/Cache/AAAPackageDev/Syntax Definitions/JSON Generic Array.tmLanguage.cache",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/test.JSON-tmLanguage",
+		"/home/kranzi/test.ssraw",
+		"/home/kranzi/.config/sublime-text-3/Packages/User/test.tmLanguage",
+		"/home/kranzi/test.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text.plain",
+			"asdhb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ipythontest.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
