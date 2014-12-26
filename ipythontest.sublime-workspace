@@ -11,9 +11,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 159.0,
+		"height": 96.0,
 		"selected_items":
 		[
+			[
+				"iju",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"julia",
+				"Sublime-IJulia: Enter"
+			],
+			[
+				"ijul",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
 			[
 				"Open",
 				"Sublime-IJulia: Open New IJulia Console"
@@ -47,7 +59,7 @@
 	},
 	"console":
 	{
-		"height": 148.0,
+		"height": 93.0,
 		"history":
 		[
 			"view.run_command(\"example\")",
@@ -63,10 +75,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/kranzi/ipythontest"
+	],
 	"file_history":
 	[
-		"/home/kranzi/Schreibtisch/Hoult transcode/convert.sh",
 		"/home/kranzi/ipythontest/startIJulia.sh",
+		"/home/kranzi/ipythontest/ijuliaTest.ipynb",
+		"/home/kranzi/ipythontest/test.jl",
+		"/home/kranzi/Schreibtisch/Hoult transcode/convert.sh",
 		"/home/kranzi/.config/sublime-text-3/Packages/IJulia/Sublime-IJulia.sublime-settings",
 		"/home/kranzi/.config/sublime-text-3/Packages/User/Sublime-IJulia.sublime-settings",
 		"/home/kranzi/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
@@ -251,7 +269,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 134.0,
+	"side_bar_width": 223.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

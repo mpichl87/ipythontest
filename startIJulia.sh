@@ -1,1 +1,1 @@
-ipython notebook --profile julia
+ipython notebook --profile=julia
