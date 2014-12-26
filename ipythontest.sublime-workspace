@@ -7,6 +7,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "4p7_Code_00.S2P",
+			"settings":
+			{
+				"buffer_size": 26316,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "module Touchstone\nexport Options, Comments, Network\n\ntype Options\n    frequency_unit\n    parameter\n    format\n    reference_resistance\nend\n\ntype \n\ntype Network\n	comments::Array{String}\n	options::Options\nend\n\nend",
+			"file": "Touchstone.jl",
+			"file_size": 204,
+			"file_write_time": 130640326903196466,
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -81,6 +100,8 @@
 	],
 	"file_history":
 	[
+		"/home/kranzi/ipythontest/Touchstone (1).jl",
+		"/home/kranzi/ipythontest/index.ipynb",
 		"/home/kranzi/ipythontest/startIJulia.sh",
 		"/home/kranzi/ipythontest/ijuliaTest.ipynb",
 		"/home/kranzi/ipythontest/test.jl",
@@ -191,8 +212,66 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "4p7_Code_00.S2P",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 1
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Touchstone.jl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Julia/Julia.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
